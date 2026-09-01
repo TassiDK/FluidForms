@@ -1,0 +1,6 @@
+{
+  "name": "AutoForma",
+  "description": "AutoForma - No-code form & workflow automation engine with dynamic conditional elements, drag-and-drop builder, MitID integration, and Danish Digital Post (NgDP) dispatcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
